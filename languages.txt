@@ -1,0 +1,15 @@
+I wasn't feeling well today and couldn't come to class so I don't have a partner. I answered the following questions on my own:
+
+
+What is your favorite programming language? Why?
+
+
+My favorite programming language is Java. It is the language that I have been programming in the most and am the most comfortable using. Java is a great first OOP language 
+to learn and in my opinion, is very logical in terms of syntax compared to some other languages. I've heard that a lot of people enjoy Python and I can see why but I think its 
+been harder for me to adjust to it since I haven't used it as much as Java.
+
+
+Is your favorite language the one you are also most experienced with? If not, which language are you most experienced with?
+
+
+My favorite language is the one that I am most experienced in, which is, Java. Python would second place for me.
